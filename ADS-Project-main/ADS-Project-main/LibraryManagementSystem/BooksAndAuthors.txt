@@ -1,0 +1,211 @@
+228	 'Fundamentals of Wavelets' 	 'Goswami, Jaideva' 	signal_processing
+235	 'Data Smart' 	 'Foreman, John' 	data_science
+197	 'God Created the Integers' 	 'Hawking, Stephen' 	mathematics
+179	 'Superfreakonomics' 	 'Dubner, Stephen' 	economics
+197	 'Orientalism' 	 'Said, Edward' 	history
+230	 'Nature of Statistical Learning Theory, The' 	 'Vapnik, Vladimir' 	data_science
+217	 'Integration of the Indian States' 	 'Menon, V P' 	history
+197	 'Drunkard's Walk, The' 	 'Mlodinow, Leonard' 	science
+241	 'Image Processing & Mathematical Morphology' 	 'Shih, Frank' 	signal_processing
+240	 'How to Think Like Sherlock Holmes' 	 'Konnikova, Maria' 	psychology
+230	 'Data Scientists at Work' 	 'Sebastian Gutierrez' 	data_science
+198	 'Slaughterhouse Five' 	 'Vonnegut, Kurt' 	fiction
+234	 'Birth of a Theorem' 	 'Villani, Cedric' 	mathematics
+240	 'Structure & Interpretation of Computer Programs' 	 'Sussman, Gerald' 	computer_science
+238	 'Age of Wrath, The' 	 'Eraly, Abraham' 	history
+198	 'Trial, The' 	 'Kafka, Frank' 	fiction
+236	 'Statistical Decision Theory'' 	 'Pratt, John' 	data_science
+242	 'Data Mining Handbook' 	 'Nisbet, Robert' 	data_science
+180	 'New Machiavelli, The' 	 'Wells, H. G.' 	fiction
+197	 'Physics & Philosophy' 	 'Heisenberg, Werner' 	science
+232	 'Making Software' 	 'Oram, Andy' 	computer_science
+248	 'Analysis, Vol I' 	 'Tao, Terence' 	mathematics
+233	 'Machine Learning for Hackers' 	 'Conway, Drew' 	data_science
+233	 'Signal and the Noise, The' 	 'Silver, Nate' 	data_science
+233	 'Python for Data Analysis' 	 'McKinney, Wes' 	data_science
+234	 'Introduction to Algorithms' 	 'Cormen, Thomas' 	computer_science
+198	 'Beautiful and the Damned, The' 	 'Deb, Siddhartha' 	nonfiction
+198	 'Outsider, The' 	 'Camus, Albert' 	fiction
+176	 'Complete Sherlock Holmes, The - Vol I' 	 'Doyle, Arthur Conan' 	fiction
+176	 'Complete Sherlock Holmes, The - Vol II' 	 'Doyle, Arthur Conan' 	fiction
+175	 'Wealth of Nations, The' 	 'Smith, Adam' 	economics
+176	 'Pillars of the Earth, The' 	 'Follett, Ken' 	fiction
+212	 'Mein Kampf' 	 'Hitler, Adolf' 	nonfiction
+179	 'Tao of Physics, The' 	 'Capra, Fritjof' 	science
+198	 'Surely You're Joking Mr Feynman' 	 'Feynman, Richard' 	science
+179	 'Farewell to Arms, A' 	 'Hemingway, Ernest' 	fiction
+177	 'Veteran, The' 	 'Forsyth, Frederick' 	fiction
+177	 'False Impressions' 	 'Archer, Jeffery' 	fiction
+197	 'Last Lecture, The' 	 'Pausch, Randy' 	nonfiction
+202	 'Return of the Primitive' 	 'Rand, Ayn' 	philosophy
+174	 'Jurassic Park' 	 'Crichton, Michael' 	fiction
+196	 'Russian Journal, A' 	 'Steinbeck, John' 	nonfiction
+172	 'Tales of Mystery and Imagination' 	 'Poe, Edgar Allen' 	fiction
+197	 'Freakonomics' 	 'Dubner, Stephen' 	economics
+197	 'Hidden Connections, The' 	 'Capra, Fritjof' 	science
+170	 'Story of Philosophy, The' 	 'Durant, Will' 	philosophy
+205	 'Asami Asami' 	 'Deshpande, P L' 	fiction
+196	 'Journal of a Novel' 	 'Steinbeck, John' 	fiction
+196	 'Once There Was a War' 	 'Steinbeck, John' 	nonfiction
+196	 'Moon is Down, The' 	 'Steinbeck, John' 	fiction
+174	 'Brethren, The' 	 'Grisham, John' 	fiction
+196	 'In a Free State' 	 'Naipaul, V. S.' 	fiction
+178	 'Catch 22' 	 'Heller, Joseph' 	fiction
+178	 'Complete Mastermind, The' 	 'BBC' 	nonfiction
+197	 'Dylan on Dylan' 	 'Dylan, Bob' 	nonfiction
+242	 'Soft Computing & Intelligent Systems' 	 'Gupta, Madan' 	data_science
+242	 'Textbook of Economic Theory' 	 'Stonier, Alfred' 	economics
+242	 'Econometric Analysis' 	 'Greene, W. H.' 	economics
+232	 'Learning OpenCV' 	 'Bradsky, Gary' 	data_science
+235	 'Data Structures Using C & C++' 	 'Tanenbaum, Andrew' 	computer_science
+255	 'Computer Vision, A Modern Approach' 	 'Forsyth, David' 	data_science
+240	 'Principles of Communication Systems' 	 'Taub, Schilling' 	computer_science
+213	 'Let Us C' 	 'Kanetkar, Yashwant' 	computer_science
+179	 'Amulet of Samarkand, The' 	 'Stroud, Jonathan' 	fiction
+180	 'Crime and Punishment' 	 'Dostoevsky, Fyodor' 	fiction
+178	 'Angels & Demons' 	 'Brown, Dan' 	fiction
+209	 'Argumentative Indian, The' 	 'Sen, Amartya' 	nonfiction
+197	 'Sea of Poppies' 	 'Ghosh, Amitav' 	fiction
+212	 'Idea of Justice, The' 	 'Sen, Amartya' 	nonfiction
+175	 'Raisin in the Sun, A' 	 'Hansberry, Lorraine' 	fiction
+177	 'All the President's Men' 	 'Woodward, Bob' 	history
+176	 'Prisoner of Birth, A' 	 'Archer, Jeffery' 	fiction
+216	 'Scoop!' 	 'Nayar, Kuldip' 	history
+213	 'Ahe Manohar Tari' 	 'Deshpande, Sunita' 	nonfiction
+199	 'Last Mughal, The' 	 'Dalrymple, William' 	history
+235	 'Social Choice & Welfare, Vol 39 No. 1' 	 'Various' 	economics
+213	 'Radiowaril Bhashane & Shrutika' 	 'Deshpande, P L' 	nonfiction
+212	 'Gun Gayin Awadi' 	 'Deshpande, P L' 	nonfiction
+212	 'Aghal Paghal' 	 'Deshpande, P L' 	nonfiction
+221	 'Maqta-e-Ghalib' 	 'Garg, Sanjay' 	fiction
+222	 'Beyond Degrees' 	 'unknown' 	nonfiction
+213	 'Manasa' 	 'Kale, V P' 	nonfiction
+198	 'India from Midnight to Milennium' 	 'Tharoor, Shashi' 	history
+210	 'World's Greatest Trials, The' 	 'unknown' 	history
+198	 'Great Indian Novel, The' 	 'Tharoor, Shashi' 	fiction
+217	 'O Jerusalem!' 	 'Lapierre, Dominique' 	history
+177	 'City of Joy, The' 	 'Lapierre, Dominique' 	fiction
+167	 'Freedom at Midnight' 	 'Lapierre, Dominique' 	history
+196	 'Winter of Our Discontent, The' 	 'Steinbeck, John' 	fiction
+203	 'On Education' 	 'Russell, Bertrand' 	philosophy
+203	 'Free Will' 	 'Harris, Sam' 	philosophy
+206	 'Bookless in Baghdad' 	 'Tharoor, Shashi' 	nonfiction
+179	 'Case of the Lame Canary, The' 	 'Gardner, Earle Stanley' 	fiction
+217	 'Theory of Everything, The' 	 'Hawking, Stephen' 	science
+176	 'New Markets & Other Essays' 	 'Drucker, Peter' 	economics
+201	 'Electric Universe' 	 'Bodanis, David' 	science
+175	 'Hunchback of Notre Dame, The' 	 'Hugo, Victor' 	fiction
+175	 'Burning Bright' 	 'Steinbeck, John' 	fiction
+178	 'Age of Discontuinity, The' 	 'Drucker, Peter' 	economics
+179	 'Doctor in the Nude' 	 'Gordon, Richard' 	fiction
+179	 'Down and Out in Paris & London' 	 'Orwell, George' 	nonfiction
+219	 'Identity & Violence' 	 'Sen, Amartya' 	philosophy
+197	 'Beyond the Three Seas' 	 'Dalrymple, William' 	history
+217	 'World's Greatest Short Stories, The' 	 'unknown' 	fiction
+175	 'Talking Straight' 	 'Iacoca, Lee' 	nonfiction
+171	 'Maugham's Collected Short Stories, Vol 3' 	 'Maugham, William S' 	fiction
+180	 'Phantom of Manhattan, The' 	 'Forsyth, Frederick' 	fiction
+160	 'Ashenden of The British Agent' 	 'Maugham, William S' 	fiction
+172	 'Zen & The Art of Motorcycle Maintenance' 	 'Pirsig, Robert' 	philosophy
+197	 'Great War for Civilization, The' 	 'Fisk, Robert' 	history
+178	 'We the Living' 	 'Rand, Ayn' 	fiction
+186	 'Artist and the Mathematician, The' 	 'Aczel, Amir' 	science
+213	 'History of Western Philosophy' 	 'Russell, Bertrand' 	philosophy
+215	 'Selected Short Stories' 	 'unknown' 	fiction
+213	 'Rationality & Freedom' 	 'Sen, Amartya' 	economics
+228	 'Clash of Civilizations and Remaking of the World Order' 	 'Huntington, Samuel' 	history
+197	 'Uncommon Wisdom' 	 'Capra, Fritjof' 	nonfiction
+172	 'One' 	 'Bach, Richard' 	nonfiction
+162	 'Karl Marx Biography' 	 'unknown' 	nonfiction
+197	 'To Sir With Love' 	 'Braithwaite' 	fiction
+196	 'Half A Life' 	 'Naipaul, V S' 	fiction
+230	 'Discovery of India, The' 	 'Nehru, Jawaharlal' 	history
+211	 'Apulki' 	 'Deshpande, P L' 	nonfiction
+198	 'Unpopular Essays' 	 'Russell, Bertrand' 	philosophy
+178	 'Deceiver, The' 	 'Forsyth, Frederick' 	fiction
+171	 'Veil: Secret Wars of the CIA' 	 'Woodward, Bob' 	history
+214	 'Char Shabda' 	 'Deshpande, P L' 	nonfiction
+176	 'Rosy is My Relative' 	 'Durrell, Gerald' 	fiction
+180	 'Moon and Sixpence, The' 	 'Maugham, William S' 	fiction
+162	 'Political Philosophers' 	 'unknown' 	philosophy
+197	 'Short History of the World, A' 	 'Wells, H G' 	history
+205	 'Trembling of a Leaf, The' 	 'Maugham, William S' 	fiction
+204	 'Doctor on the Brain' 	 'Gordon, Richard' 	fiction
+233	 'Simpsons & Their Mathematical Secrets' 	 'Singh, Simon' 	science
+241	 'Pattern Classification' 	 'Duda, Hart' 	data_science
+202	 'From Beirut to Jerusalem' 	 'Friedman, Thomas' 	history
+197	 'Code Book, The' 	 'Singh, Simon' 	science
+197	 'Age of the Warrior, The' 	 'Fisk, Robert' 	history
+257	 'Final Crisis' 	 'unknown' 	comic
+283	 'Killing Joke, The' 	 'unknown' 	comic
+265	 'Flashpoint' 	 'unknown' 	comic
+265	 'Batman Earth One' 	 'unknown' 	comic
+258	 'Crisis on Infinite Earths' 	 'unknown' 	comic
+202	 'Numbers Behind Numb3rs, The' 	 'Devlin, Keith' 	science
+259	 'Superman Earth One - 1' 	 'unknown' 	comic
+258	 'Superman Earth One - 2' 	 'unknown' 	comic
+258	 'Justice League: Throne of Atlantis' 	 'unknown' 	comic
+258	 'Justice League: The Villain's Journey' 	 'unknown' 	comic
+258	 'Death of Superman, The' 	 'unknown' 	comic
+258	 'History of the DC Universe' 	 'unknown' 	comic
+258	 'Batman: The Long Halloween' 	 'unknown' 	comic
+196	 'Life in Letters, A' 	 'Steinbeck, John' 	nonfiction
+233	 'Information, The' 	 'Gleick, James' 	science
+235	 'Journal of Economics, vol 106 No 3' 	 'unknown' 	economics
+229	 'Elements of Information Theory' 	 'Thomas, Joy' 	data_science
+235	 'Power Electronics - Rashid' 	 'Rashid, Muhammad' 	computer_science
+237	 'Power Electronics - Mohan' 	 'Mohan, Ned' 	computer_science
+240	 'Neural Networks' 	 'Haykin, Simon' 	data_science
+196	 'Grapes of Wrath, The' 	 'Steinbeck, John' 	fiction
+211	 'Vyakti ani Valli' 	 'Deshpande, P L' 	nonfiction
+228	 'Statistical Learning Theory' 	 'Vapnik, Vladimir' 	data_science
+180	 'Empire of the Mughal - The Tainted Throne' 	 'Rutherford, Alex' 	history
+180	 'Empire of the Mughal - Brothers at War' 	 'Rutherford, Alex' 	history
+180	 'Empire of the Mughal - Ruler of the World' 	 'Rutherford, Alex' 	history
+180	 'Empire of the Mughal - The Serpent's Tooth' 	 'Rutherford, Alex' 	history
+180	 'Empire of the Mughal - Raiders from the North' 	 'Rutherford, Alex' 	history
+236	 'Mossad' 	 'Baz-Zohar, Michael' 	history
+223	 'Jim Corbett Omnibus' 	 'Corbett, Jim' 	nonfiction
+190	 '20000 Leagues Under the Sea' 	 'Verne, Jules' 	fiction
+200	 'Batatyachi Chal' 	 'Deshpande P L' 	fiction
+211	 'Hafasavnuk' 	 'Deshpande P L' 	fiction
+211	 'Urlasurla' 	 'Deshpande P L' 	fiction
+213	 'Pointers in C' 	 'Kanetkar, Yashwant' 	computer_science
+217	 'Cathedral and the Bazaar, The' 	 'Raymond, Eric' 	computer_science
+240	 'Design with OpAmps' 	 'Franco, Sergio' 	computer_science
+230	 'Think Complexity' 	 'Downey, Allen' 	data_science
+178	 'Devil's Advocate, The' 	 'West, Morris' 	fiction
+203	 'Ayn Rand Answers' 	 'Rand, Ayn' 	philosophy
+171	 'Philosophy: Who Needs It' 	 'Rand, Ayn' 	philosophy
+189	 'World's Great Thinkers, The' 	 'unknown' 	philosophy
+230	 'Data Analysis with Open Source Tools' 	 'Janert, Phillip' 	data_science
+174	 'Broca's Brain' 	 'Sagan, Carl' 	science
+217	 'Men of Mathematics' 	 'Bell, E T' 	mathematics
+240	 'Oxford book of Modern Science Writing' 	 'Dawkins, Richard' 	science
+224	 'Justice, Judiciary and Democracy' 	 'Ranjan, Sudhanshu' 	philosophy
+214	 'Arthashastra, The' 	 'Kautiyla' 	philosophy
+216	 'We the People' 	 'Palkhivala' 	philosophy
+216	 'We the Nation' 	 'Palkhivala' 	philosophy
+217	 'Courtroom Genius, The' 	 'Sorabjee' 	nonfiction
+216	 'Dongri to Dubai' 	 'Zaidi, Hussain' 	nonfiction
+197	 'History of England, Foundation' 	 'Ackroyd, Peter' 	history
+198	 'City of Djinns' 	 'Dalrymple, William' 	history
+177	 'India's Legal System' 	 'Nariman' 	nonfiction
+235	 'More Tears to Cry' 	 'Sassoon, Jean' 	fiction
+196	 'Ropemaker, The' 	 'Dickinson, Peter' 	fiction
+170	 'Angels & Demons' 	 'Brown, Dan' 	fiction
+170	 'Judge, The' 	 'unknown' 	fiction
+170	 'Attorney, The' 	 'unknown' 	fiction
+173	 'Prince, The' 	 'Machiavelli' 	philosophy
+180	 'Eyeless in Gaza' 	 'Huxley, Aldous' 	fiction
+184	 'Tales of Beedle the Bard' 	 'Rowling, J K' 	fiction
+179	 'Girl with the Dragon Tattoo' 	 'Larsson, Steig' 	fiction
+179	 'Girl who kicked the Hornet's Nest' 	 'Larsson, Steig' 	fiction
+179	 'Girl who played with Fire' 	 'Larsson, Steig' 	fiction
+270	 'Batman Handbook' 	 'unknown' 	comic
+178	 'Murphy's Law' 	 'unknown' 	nonfiction
+252	 'Structure and Randomness' 	 'Tao, Terence' 	mathematics
+241	 'Image Processing with MATLAB' 	 'Eddins, Steve' 	signal_processing
+180	 'Animal Farm' 	 'Orwell, George' 	fiction
+197	 'Idiot, The' 	 'Dostoevsky, Fyodor' 	fiction
+196	 'Christmas Carol, A' 	 'Dickens, Charles' 	fiction
